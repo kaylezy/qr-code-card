@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#Coded out a QR Code component chanllenge by Frontend Mentor to improve my HTML AND CSS Skills)
-  - [Links](#links)
+  - [Links](https://kaylezy.github.io/qr-code-card/)
   - [Built with](#HTML AND #CSS)
   - [What I learned](#Improving my Frontend Dev skills)
   - [Useful resources](#online resources)
@@ -39,7 +39,7 @@ I still want to focus more and get used to my HTML Sematics and CSS customs to b
 
 ## Author
 
-- Website - [Add your name Olakunle Hassan](https://www.your-site.com)
+- Website - [Olakunle Hassan/QR Code](https://kaylezy.github.io/qr-code-card/)
 - Frontend Mentor - [@kaylezy](https://www.frontendmentor.io/profile/kaylezy)
 - Twitter - [@iam_kaylezy](https://www.twitter.com/iam_kaylezy)
 
